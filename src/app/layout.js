@@ -4,7 +4,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        <header>My sample app</header>
+        <header>Welcome to my portfolio!</header>
         <main>{children}</main>
       </body>
     </html>
