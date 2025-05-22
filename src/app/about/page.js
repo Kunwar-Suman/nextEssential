@@ -1,4 +1,8 @@
 import Layout from "../../components/Layout";
+
+export const metadata = {
+  title: "About Suman",
+};
 export default function AboutPage() {
   return (
     <Layout>
