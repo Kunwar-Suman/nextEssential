@@ -8,7 +8,8 @@ export default function AboutPage() {
     <Layout>
       <h1>About Me</h1>
       <p>
-        Hi! I'm Suman. I'm a software developer exploring the world of web technologies with Next.js.
+        Hi! I'm Suman. I'm a software developer exploring the world of web
+        technologies with Next.js.
       </p>
     </Layout>
   );
